@@ -1,5 +1,5 @@
-mod repository;
+mod repo;
 
 fn main() {
-    repository::Repository::new();
+    println!("Hello, world!");
 }
